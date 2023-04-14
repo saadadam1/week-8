@@ -1,0 +1,12 @@
+1. Stack: Create a class called Stack that implements the stack data structure. The class should have methods to push, pop, and peek elements, as well as to check if the stack is empty.
+2. Queue: Create a class called Queue that implements the queue data structure. The class should have methods to enqueue, dequeue, and peek elements, as well as to check if the queue is empty.
+ 3. Linked List: Create a class called LinkedList that implements the linked list data structure. The class should have methods to add, remove, and search for elements, as well as to check if the list is empty.
+4. Phonebook: Create a class called Phonebook that stores a collection of phone numbers and names in an array. Implement a method that uses linear search algorithm to search for a name based on the phone number and another method that uses binary search algorithm
+ to search for a phone number based on the name.
+5. Sorting Algorithm Comparison: Create a class called SortingAlgorithmComparison that compares the performance of different sorting algorithms such as bubble sort, insertion sort, quicksort, and mergesort. The class should have methods that take an array as
+ input and sort it using each algorithm, and also measure the time it takes to sort the array and the number of comparisons and swaps made.
+6. Address Book: Create a class called AddressBook that stores a collection of contacts in a HashMap. The class should have methods to add, edit, and delete contacts, as well as to search for a contact by name.
+7. To-do List: Create a class called ToDoList that stores a collection of tasks in a LinkedList. The class should have methods to add, edit, and delete tasks, as well as to mark a task as complete and display all incomplete tasks.
+8. Inventory Management: Create a class called InventoryManagement that stores a collection of products in a HashMap. The class should have methods to add, edit, and delete products, as well as to check the availability of a product and display the products
+ that are out of stock.
+9. Shopping Cart: Create a class called ShoppingCart that stores a collection of items in a ArrayList. The class should have methods to add, remove, and display items in the cart, as well as to calculate the total cost of the items in the cart.
